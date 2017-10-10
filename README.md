@@ -12,7 +12,6 @@
 
 Output will be looks like this (run results) - but of course CSV file generate will reside at your specific folder:
 
->java -jar CsvFakeDataFileGeneratorTool.jar 50000000 ,<br>
 CSV fake data file generation is done successfully and took: 168 seconds<br>
 CSV fake data file generated at this location: C:\Users\Mohee_Jarada\fakeCsvDataFile_50000000.csv<br>
 
@@ -21,6 +20,11 @@ CSV fake data file generated at this location: C:\Users\Mohee_Jarada\fakeCsvData
 
 // Below command line will generate 200 millions of CSV data records file (comma separated file):
 > java -jar "CsvFakeDataFileGeneratorTool.jar" 200000000 ,
+
+Output will be looks like this (run results) - but of course CSV file generate will reside at your specific folder:
+
+CSV fake data file generation is done successfully and took: 683 seconds<br>
+CSV fake data file generated at this location: C:\Users\Mohee_Jarada\fakeCsvDataFile_200000000.csv<br>
 
 // Below command line will generate 10 millions of CSV data records file (semicolon separated file:
 > java -jar "CsvFakeDataFileGeneratorTool.jar" 10000000 ;
