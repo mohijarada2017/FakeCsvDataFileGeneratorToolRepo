@@ -25,5 +25,6 @@ CSV fake data file generated at this location: C:\Users\Mohee_Jarada\fakeCsvData
 // Below command line will generate 10 millions of CSV data records file (semicolon separated file:
 > java -jar "CsvFakeDataFileGeneratorTool.jar" 10000000 ;
 
+<hr>
 Enjoy using my tool and happy to hear from you:
 (c)2017 October - Mohee Jarada. E-Mail: jarada.mohee@gmail.com
