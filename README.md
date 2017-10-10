@@ -1,6 +1,6 @@
 # FakeCsvDataFileGeneratorToolRepo
 
-## Fake CSV data file generator Java tool for testing BigData stuff like Data Visualizations, BI tools' performance (i.e. > 200 millions of CSV records file can be generated) - generated CSV file with 7 Ms-Excel columns:
+## Fake CSV data file generator Java tool for testing BigData stuff like Data Visualizations, BI tools' performance (i.e. > 200 millions of CSV records file can be generated) - generated CSV file with 7 columns:
 
 * Installation instructions:
 1) Please make sure you have JRE 1.7+ installed in prior.
