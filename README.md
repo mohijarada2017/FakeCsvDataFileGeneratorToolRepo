@@ -2,7 +2,7 @@
 
 ## Fake CSV data file generator Java tool for testing BigData stuff like Data Visualizations, BI tools' performance (i.e. > 200 millions of CSV records file can be generated)
 
-* Installations instructions:
+* Installation instructions:
 1) Please make sure you have JRE 1.7+ installed in prior.
 2) Then, please download the zip file named "java_tool_zipfile_to_run.zip", to any folder/sub-folder at your computer/notebook.
 3) Just run it with these commands (i.e. tested with 4GB-8GB RAM machines and worked well):
