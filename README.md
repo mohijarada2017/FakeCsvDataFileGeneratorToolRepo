@@ -27,5 +27,5 @@ CSV fake data file generated at this location: C:\Users\Mohee_Jarada\fakeCsvData
 
 <hr>
 Enjoy using my tool and happy to hear from you:
-(c)2017 October - Mohee Jarada. 
+(c)2017 October - Mohee Jarada.<br>
 E-Mail: jarada.mohee@gmail.com
