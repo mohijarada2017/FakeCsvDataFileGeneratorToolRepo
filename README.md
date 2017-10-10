@@ -10,7 +10,6 @@
 // Below command line will generate 50 millions of CSV data records file reside at $home.dir, in Ms-Windows will be c:\users\..
 > java -jar "CsvFakeDataFileGeneratorTool.jar" 50000000 ,
 
-"
 <small><italic>
 Output will be looks like this (run results) - but of course CSV file generate will reside at your specific folder:
 
@@ -18,7 +17,6 @@ C:\DevTools\CsvFakeDataFileGeneratorTool\dist>java -jar CsvFakeDataFileGenerator
 CSV fake data file generation is done successfully and took: 168 seconds<br\>
 CSV fake data file generated at this location: C:\Users\Mohee_Jarada\fakeCsvDataFile_50000000.csv<br\>
 </italic></small>
-"
 
 // Below command line will generate 100 millions of CSV data records file (comma separated file):
 > java -jar "CsvFakeDataFileGeneratorTool.jar" 100000000 ,
